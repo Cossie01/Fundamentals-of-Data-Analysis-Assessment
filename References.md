@@ -18,3 +18,7 @@ https://het.as.utexas.edu/HET/Software/Matplotlib/api/colors_api.html#:~:text=%2
 
 https://i.pinimg.com/originals/41/c0/5e/41c05ef51deed9df1d1e31871a1c8b3c.jpg 
 
+https://www.datasciencelearner.com/matplotlib-tutorial-complete-guide-to-use-matplotlib-with-python/
+
+https://www.javatpoint.com/matplotlib
+
