@@ -27,9 +27,27 @@ Furthermore, all images and reference can be located in a separate markdown file
 
 ## Matplotlib
 
-The first part of the assignment is looking at matplotlib with a view of three specific plots.
+The first part of the assignment is looking at matplotlib with a view of five specific plots.
 
 Matplotlib makes graphs of arrays in Python and uses Numpy and other extention codes to provide good performance for large arrays.
 
+Some visualisations that can be created from this package are as follows:
+
+* Linegraphs
+* Barcharts
+* Histograms
+* Scatterplots
+* Area Plots
+* Pie Charts
+* Box plot
+* Violin Plot
+* Surface Plot
+
+![matplotlib](https://matplotlib.org/3.4.3/index.html)
+
 
 ## The second part of the assignment is to view of CAO point system and using a panda data frame to compare and contrast.
+
+The second part of the assignment
+
+![cao](https://upload.wikimedia.org/wikipedia/commons/5/51/Central_Applications_Office.png)
