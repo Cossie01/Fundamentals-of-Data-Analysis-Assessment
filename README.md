@@ -43,7 +43,7 @@ Some visualisations that can be created from this package are as follows:
 * Violin Plot
 * Surface Plot
 
-![matplotlib](https://matplotlib.org/3.4.3/index.html)
+![matplotlib](https://matplotlib.org/3.4.3/index.html) 
 
 
 ## The second part of the assignment is to view of CAO point system and using a panda data frame to compare and contrast.
@@ -51,3 +51,11 @@ Some visualisations that can be created from this package are as follows:
 The second part of the assignment
 
 ![cao](https://upload.wikimedia.org/wikipedia/commons/5/51/Central_Applications_Office.png)
+
+
+To do
+- Read in 2021 Cao Data
+- Read in 2020 Cao Data
+- Read in 2019 Cao Data
+- Detailed comparison using pandas
+- Plots 
