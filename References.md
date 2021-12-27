@@ -22,3 +22,6 @@ https://www.datasciencelearner.com/matplotlib-tutorial-complete-guide-to-use-mat
 
 https://www.javatpoint.com/matplotlib
 
+## Second part of the assignment - Cleaning up the data
+
+https://www.youtube.com/watch?v=jqUSUnyR4mc #how to delete blank lines in notepad++
