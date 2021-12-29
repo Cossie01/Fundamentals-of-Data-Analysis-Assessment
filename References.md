@@ -22,6 +22,16 @@ https://www.datasciencelearner.com/matplotlib-tutorial-complete-guide-to-use-mat
 
 https://www.javatpoint.com/matplotlib
 
-## Second part of the assignment - Cleaning up the data
+## Second part of the assignment 
+
+### Reading in the data
+
+https://www.youtube.com/watch?v=r_xb0vF1uMc
+https://www.youtube.com/watch?v=zXif_9RVadI
+
+
+### Cleaning up the data
 
 https://www.youtube.com/watch?v=jqUSUnyR4mc #how to delete blank lines in notepad++
+
+https://stackoverflow.com/questions/13411544/delete-a-column-from-a-pandas-dataframe

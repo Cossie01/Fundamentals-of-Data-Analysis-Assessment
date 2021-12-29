@@ -11,10 +11,6 @@ HDip Data Analytics 2021 Fundamentals of Data Analysis Assessment
 
 # Introduction
 
-- Last update -16th
-
-Introduction
-
 This README describes the overview of the overall basics of the Matplotlib package with sample code. From there, I use my newly found knowledge to display five different types of plots that can be executed by this package. For this I use the widely used Titanic Data set. This leads us onto the Cao data part of the assignment.
 
 
@@ -56,8 +52,12 @@ The second part of the assignment
 
 
 To do
-- Read in 2021 Cao Data
+- ~~Read in 2021 Cao Data
 - Read in 2020 Cao Data
-- Read in 2019 Cao Data
+- ~~Read in 2019 Cao Data
 - Detailed comparison using pandas
 - Plots 
+
+Items I learned
+
+- sometimes you need to re-load the whole kernel again to ensure something runs correctly. This occured when I was trying to remove colums from 2021 dataset, it would remove some columns but then when it was re-ran separetly then an error would appear and state that the column wasnt there so took some time trying to figure that out. 
