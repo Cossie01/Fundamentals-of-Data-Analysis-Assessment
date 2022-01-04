@@ -53,11 +53,14 @@ The second part of the assignment
 
 To do
 - ~~Read in 2021 Cao Data
-- Read in 2020 Cao Data
-- ~~Read in 2019 Cao Data
+- ~~Read in 2020 Cao Data
+- ~~Read in 2019 Cao Data~~
+- Clean up the data
 - Detailed comparison using pandas
 - Plots 
 
 Items I learned
 
 - sometimes you need to re-load the whole kernel again to ensure something runs correctly. This occured when I was trying to remove colums from 2021 dataset, it would remove some columns but then when it was re-ran separetly then an error would appear and state that the column wasnt there so took some time trying to figure that out. 
+
+![cheetsheet](https://st11.ning.com/topology/rest/1.0/file/get/2808327959?profile=original)

@@ -35,3 +35,24 @@ https://www.youtube.com/watch?v=zXif_9RVadI
 https://www.youtube.com/watch?v=jqUSUnyR4mc #how to delete blank lines in notepad++
 
 https://stackoverflow.com/questions/13411544/delete-a-column-from-a-pandas-dataframe
+
+https://stackoverflow.com/questions/23667369/drop-all-duplicate-rows-across-multiple-columns-in-python-pandas
+
+### Comparing the data
+
+https://stackoverflow.com/questions/45684532/how-to-use-compare-several-dataframes-and-return-the-matches-using-pandas
+
+https://datatofish.com/compare-values-dataframes/
+
+https://www.geeksforgeeks.org/how-to-compare-two-dataframes-with-pandas-compare/
+
+https://datascience.stackexchange.com/questions/33053/how-do-i-compare-columns-in-different-data-frames
+
+https://studylib.net/doc/25268801/pandas-cheat-sheet
+
+
+
+
+
+
+
