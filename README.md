@@ -11,8 +11,7 @@ HDip Data Analytics 2021 Fundamentals of Data Analysis Assessment
 
 # Introduction
 
-This README describes the overview of the overall basics of the Matplotlib package with sample code. From there, I use my newly found knowledge to display five different types of plots that can be executed by this package. For this I use the widely used Titanic Data set. This leads us onto the Cao data part of the assignment.
-
+This README is broken down into two parts corresponding to the two assignments of the assessment. The first part is an overview of the overall basics of the Matplotlib package with sample code. From there, I use my newly found knowledge to display five different types of plots that can be executed by this package. For this I use the widely used Titanic Data set. This leads us onto the Cao data part of the assignment.
 
 Alongside the README, I examine and show my workings in two separate jupyter notebooks. The first is called pyplot.ipynb and this examines the Matplotlib package while the second notebook called Cao.ipynb considers the second part of the assignment. 
 
@@ -41,7 +40,7 @@ Some visualisations that can be created from this package are as follows:
 * Violin Plot
 * Surface Plot
 
-![matplotlib](https://matplotlib.org/3.4.3/index.html) 
+![matplotlib] (https://matplotlib.org/3.4.3/index.html) 
 
 
 ## The second part of the assignment is to view of CAO point system and using a panda data frame to compare and contrast.
@@ -52,14 +51,14 @@ The second part of the assignment is using the Panadas package to merge three da
 
 
 To do
-- ~~Read in 2021 Cao Data
-- ~~Read in 2020 Cao Data
+- ~~Read in 2021 Cao Data~~
+- ~~Read in 2020 Cao Data~~
 - ~~Read in 2019 Cao Data~~
 - ~~Clean up the data~~
-- Add all the data sets together
-- Use the course code as the index and remove duplicates 
-- Remove all courses that were not ran in the certain years
-- Add all the points for R1 for the three years
+- ~~Add all the data sets together~~
+- ~~Use the course code as the index and remove duplicates ~~
+- ~~Remove all courses that were not ran in the certain year~~s
+- ~~Add all the points for R1 for the three years~~
 - Detailed comparison using pandas
 - Plots 
 
@@ -67,6 +66,6 @@ Items I learned
 
 - Sometimes you need to re-load the whole kernel again to ensure something runs correctly. This occured when I was trying to remove colums from 2021 dataset, it would remove some columns but then when it was re-ran separetly then an error would appear and state that the column wasnt there so took some time trying to figure that out. 
 - In times it felt it would be faster but I knew by learning new ways it will help me be more efficient in the future. 
-- 
+- I think if I was to do this assignment again, I would change the name of the headers first of all the datasets and endsure they were all the same accross the board, this will make it easier when merging the dataframes. 
 
 ![cheetsheet](https://st11.ning.com/topology/rest/1.0/file/get/2808327959?profile=original)
