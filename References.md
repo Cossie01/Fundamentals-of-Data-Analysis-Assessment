@@ -50,6 +50,10 @@ https://stackoverflow.com/questions/46800269/display-list-result-horizontally-in
 
 https://stackoverflow.com/questions/38277928/remove-special-characters-in-pandas-dataframe
 
+https://stackoverflow.com/questions/17071871/how-do-i-select-rows-from-a-dataframe-based-on-column-values
+
+https://stackoverflow.com/questions/15891038/change-column-type-in-pandas
+
 ### Comparing the data
 
 https://stackoverflow.com/questions/45684532/how-to-use-compare-several-dataframes-and-return-the-matches-using-pandas
