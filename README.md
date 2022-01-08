@@ -46,7 +46,7 @@ Some visualisations that can be created from this package are as follows:
 
 ## The second part of the assignment is to view of CAO point system and using a panda data frame to compare and contrast.
 
-The second part of the assignment
+The second part of the assignment is using the Panadas package to merge three datasets the Cao points from 2021, 2020 and 2019. Then to compare the Round 1 Points and then compare the Round 2 Points to see if they is any correlation between the years. From there, I have dispayed my outcomes with the use of some specific graphs.
 
 ![cao](https://upload.wikimedia.org/wikipedia/commons/5/51/Central_Applications_Office.png)
 
@@ -55,12 +55,18 @@ To do
 - ~~Read in 2021 Cao Data
 - ~~Read in 2020 Cao Data
 - ~~Read in 2019 Cao Data~~
-- Clean up the data
+- ~~Clean up the data~~
+- Add all the data sets together
+- Use the course code as the index and remove duplicates 
+- Remove all courses that were not ran in the certain years
+- Add all the points for R1 for the three years
 - Detailed comparison using pandas
 - Plots 
 
 Items I learned
 
-- sometimes you need to re-load the whole kernel again to ensure something runs correctly. This occured when I was trying to remove colums from 2021 dataset, it would remove some columns but then when it was re-ran separetly then an error would appear and state that the column wasnt there so took some time trying to figure that out. 
+- Sometimes you need to re-load the whole kernel again to ensure something runs correctly. This occured when I was trying to remove colums from 2021 dataset, it would remove some columns but then when it was re-ran separetly then an error would appear and state that the column wasnt there so took some time trying to figure that out. 
+- In times it felt it would be faster but I knew by learning new ways it will help me be more efficient in the future. 
+- 
 
 ![cheetsheet](https://st11.ning.com/topology/rest/1.0/file/get/2808327959?profile=original)

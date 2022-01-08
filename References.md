@@ -50,8 +50,14 @@ https://datascience.stackexchange.com/questions/33053/how-do-i-compare-columns-i
 
 https://studylib.net/doc/25268801/pandas-cheat-sheet
 
+https://www.w3schools.com/python/pandas/pandas_correlations.asp
 
 
+### Other
+
+https://pandas.pydata.org/about/#:~:text=History%20of%20development,make%20open%20source%20pandas%20possible.
+
+https://www.edureka.co/blog/python-pandas-tutorial/
 
 
 
