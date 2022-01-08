@@ -38,6 +38,18 @@ https://stackoverflow.com/questions/13411544/delete-a-column-from-a-pandas-dataf
 
 https://stackoverflow.com/questions/23667369/drop-all-duplicate-rows-across-multiple-columns-in-python-pandas
 
+https://towardsdatascience.com/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e
+
+https://www.geeksforgeeks.org/replace-nan-values-with-zeros-in-pandas-dataframe/ 
+
+https://stackoverflow.com/questions/27060098/replacing-few-values-in-a-pandas-dataframe-column-with-another-value
+
+https://stackoverflow.com/questions/48939650/replace-values-that-are-not-int-with-0-in-pandas-dataframe
+
+https://stackoverflow.com/questions/46800269/display-list-result-horizontally-in-python-3-rather-than-vertically/49198094
+
+https://stackoverflow.com/questions/38277928/remove-special-characters-in-pandas-dataframe
+
 ### Comparing the data
 
 https://stackoverflow.com/questions/45684532/how-to-use-compare-several-dataframes-and-return-the-matches-using-pandas
@@ -51,6 +63,9 @@ https://datascience.stackexchange.com/questions/33053/how-do-i-compare-columns-i
 https://studylib.net/doc/25268801/pandas-cheat-sheet
 
 https://www.w3schools.com/python/pandas/pandas_correlations.asp
+
+https://www.geeksforgeeks.org/how-to-compare-two-columns-in-pandas/
+
 
 
 ### Other

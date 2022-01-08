@@ -67,5 +67,5 @@ Items I learned
 - Sometimes you need to re-load the whole kernel again to ensure something runs correctly. This occured when I was trying to remove colums from 2021 dataset, it would remove some columns but then when it was re-ran separetly then an error would appear and state that the column wasnt there so took some time trying to figure that out. 
 - In times it felt it would be faster but I knew by learning new ways it will help me be more efficient in the future. 
 - I think if I was to do this assignment again, I would change the name of the headers first of all the datasets and endsure they were all the same accross the board, this will make it easier when merging the dataframes. 
-
+- Further on I noticed that there was NaN values which I wasnt sure at first what to do with it. 
 ![cheetsheet](https://st11.ning.com/topology/rest/1.0/file/get/2808327959?profile=original)
