@@ -54,6 +54,10 @@ https://stackoverflow.com/questions/17071871/how-do-i-select-rows-from-a-datafra
 
 https://stackoverflow.com/questions/15891038/change-column-type-in-pandas
 
+https://stackoverflow.com/questions/51070985/find-out-the-percentage-of-missing-values-in-each-column-in-the-given-dataset/51071085
+
+https://stackoverflow.com/questions/58962374/pandas-dataframe-check-if-a-value-exists-in-multiple-columns-for-one-row
+
 ### Comparing the data
 
 https://stackoverflow.com/questions/45684532/how-to-use-compare-several-dataframes-and-return-the-matches-using-pandas
@@ -73,6 +77,24 @@ https://www.geeksforgeeks.org/how-to-compare-two-columns-in-pandas/
 https://www.analyticsvidhya.com/blog/2021/07/how-to-perform-data-visualization-with-pandas/
 
 https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
+
+https://thispointer.com/pandas-count-true-values-in-a-dataframe-column/
+
+https://www.interviewqs.com/ddi-code-snippets/rows-cols-python
+
+https://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.nlargest.html
+
+https://www.shanelynn.ie/bar-plots-in-python-using-pandas-dataframes/
+
+https://stackoverflow.com/questions/23833763/pandas-count-number-of-elements-in-each-column-less-than-x
+
+https://stackoverflow.com/questions/50865987/how-to-select-all-elements-greater-than-a-given-values-in-a-dataframe
+
+https://www.geeksforgeeks.org/difference-of-two-columns-in-pandas-dataframe/
+
+https://www.geeksforgeeks.org/how-to-create-pie-chart-from-pandas-dataframe/?ref=gcse
+
+https://stackoverflow.com/questions/40111161/pandas-sort-column-by-maximum-values
 
 
 ### Other
