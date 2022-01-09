@@ -50,18 +50,6 @@ The second part of the assignment is using the Panadas package to merge three da
 ![cao](https://upload.wikimedia.org/wikipedia/commons/5/51/Central_Applications_Office.png)
 
 
-To do
-- ~~Read in 2021 Cao Data~~
-- ~~Read in 2020 Cao Data~~
-- ~~Read in 2019 Cao Data~~
-- ~~Clean up the data~~
-- ~~Add all the data sets together~~
-- ~~Use the course code as the index and remove duplicates ~~
-- ~~Remove all courses that were not ran in the certain year~~s
-- ~~Add all the points for R1 for the three years~~
-- Detailed comparison using pandas
-- Plots 
-
 Items I learned
 
 - Sometimes you need to re-load the whole kernel again to ensure something runs correctly. This occured when I was trying to remove colums from 2021 dataset, it would remove some columns but then when it was re-ran separetly then an error would appear and state that the column wasnt there so took some time trying to figure that out. 
@@ -69,5 +57,6 @@ Items I learned
 - I think if I was to do this assignment again, I would change the name of the headers first of all the datasets and endsure they were all the same accross the board, this will make it easier when merging the dataframes. 
 - Often, I would find code that would fix an issue but then it would alter another column and would take ages to fix so often found that it was quicker to put in lines of code for 5 sepearte items than one code that fixes it but modifies other columns. 
 - Further on I noticed that there was NaN values which I wasnt sure at first what to do with it. 
+- I think I would have prefered of doing my leaving cert in 2019!
 - Located many cheetsheets that came in handy and have saved them to my desktop.
 ![cheetsheet](https://st11.ning.com/topology/rest/1.0/file/get/2808327959?profile=original)

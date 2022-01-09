@@ -103,6 +103,8 @@ https://www.geeksforgeeks.org/how-to-create-pie-chart-from-pandas-dataframe/?ref
 
 https://pandas.pydata.org/about/#:~:text=History%20of%20development,make%20open%20source%20pandas%20possible.
 
+https://python-tricks.com/pandas-introduction/
+
 https://www.edureka.co/blog/python-pandas-tutorial/
 
 https://www.codecademy.com/article/seaborn-design-ii #seaborn colors
