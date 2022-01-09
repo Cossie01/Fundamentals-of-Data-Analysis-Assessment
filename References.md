@@ -70,6 +70,9 @@ https://www.w3schools.com/python/pandas/pandas_correlations.asp
 
 https://www.geeksforgeeks.org/how-to-compare-two-columns-in-pandas/
 
+https://www.analyticsvidhya.com/blog/2021/07/how-to-perform-data-visualization-with-pandas/
+
+https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
 
 
 ### Other
@@ -77,6 +80,8 @@ https://www.geeksforgeeks.org/how-to-compare-two-columns-in-pandas/
 https://pandas.pydata.org/about/#:~:text=History%20of%20development,make%20open%20source%20pandas%20possible.
 
 https://www.edureka.co/blog/python-pandas-tutorial/
+
+https://www.codecademy.com/article/seaborn-design-ii #seaborn colors
 
 
 
