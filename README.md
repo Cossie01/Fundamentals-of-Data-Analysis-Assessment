@@ -19,7 +19,7 @@ Alongside the README, I examine and show my workings in two separate jupyter not
 In order to view the notebook you will need to download it from this repository and open it in Juypter. Jupyter notebook/lab is installed with the introduction of the Anaconda program. If unfamiliar with these programms, it is also possible to view a static version using my direct link to my git hub (https://github.com/Cossie01/Fundamentals-of-Data-Analysis-Assessment).
 
 
-Furthermore, all images and reference can be located in a separate markdown file with the name References. 
+Furthermore, all images and reference can be located in a separate markdown file with the name References as well as some Rough work of my code that didnt work or thought I would use at different stage. This is called the RW.ipnb
 
 
 ## Matplotlib
@@ -67,5 +67,7 @@ Items I learned
 - Sometimes you need to re-load the whole kernel again to ensure something runs correctly. This occured when I was trying to remove colums from 2021 dataset, it would remove some columns but then when it was re-ran separetly then an error would appear and state that the column wasnt there so took some time trying to figure that out. 
 - In times it felt it would be faster but I knew by learning new ways it will help me be more efficient in the future. 
 - I think if I was to do this assignment again, I would change the name of the headers first of all the datasets and endsure they were all the same accross the board, this will make it easier when merging the dataframes. 
+- Often, I would find code that would fix an issue but then it would alter another column and would take ages to fix so often found that it was quicker to put in lines of code for 5 sepearte items than one code that fixes it but modifies other columns. 
 - Further on I noticed that there was NaN values which I wasnt sure at first what to do with it. 
+- Located many cheetsheets that came in handy and have saved them to my desktop.
 ![cheetsheet](https://st11.ning.com/topology/rest/1.0/file/get/2808327959?profile=original)
